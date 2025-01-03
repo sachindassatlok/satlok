@@ -16,7 +16,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Satlok Ashram - A Spiritual Revolution</title>
+        <title>Satlok Ashram ji - A Spiritual Revolution</title>
         <meta name="description" content="Welcome to Satlok Ashram - A center for spiritual enlightenment and inner peace" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
