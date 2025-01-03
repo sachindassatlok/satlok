@@ -7,8 +7,6 @@ const nextConfig = {
     unoptimized: true,
   },
   swcMinify: true,
-  basePath: '/satlok',
-  assetPrefix: '/satlok/',
 }
 
 module.exports = nextConfig
