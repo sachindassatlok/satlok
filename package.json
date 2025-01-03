@@ -22,12 +22,7 @@
     "@types/node": "^20.10.5",
     "@types/react": "^18.2.45",
     "@types/react-dom": "^18.2.18",
-    "canvas": "^3.0.1"Type    Name               Value
-    A       @                  185.199.108.153
-    A       @                  185.199.109.153
-    A       @                  185.199.110.153
-    A       @                  185.199.111.153
-    CNAME   www               sachindassatlok.github.io,
+    "canvas": "^3.0.1",
     "eslint": "^8.56.0",
     "eslint-config-next": "^14.0.4",
     "typescript": "^5.3.3"
