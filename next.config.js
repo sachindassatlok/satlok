@@ -3,7 +3,7 @@ const nextConfig = {
   output: 'export',
   reactStrictMode: true,
   images: {
-    domains: ['localhost', 'sachindassatlok.github.io'],
+    domains: ['localhost', 'thebrandhunk.com'],
     unoptimized: true,
   },
   swcMinify: true,
